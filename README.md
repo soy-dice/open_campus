@@ -4,9 +4,13 @@ OCでの系統解析体験用コード
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soy-dice/open_campus/blob/main/oc_phylogeny_demo.ipynb)
 
-基本的に上から順に実行していけばok
+基本的に上から順に実行していけば、系統樹の推定と描画までできるようになっている
+
+最初のパッケージのインストールが時間かかるので、予め実行しておくと良い
 
 固定の7種 + 10種類の植物から3種を選択して系統樹を推定
+
+選択は選んでもらっても、勝手に選んでも良い
 
 | 固定7種 | 選択10種 |
 | :--- | :--- |
