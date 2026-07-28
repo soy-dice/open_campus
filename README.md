@@ -4,6 +4,8 @@ OCでの系統解析体験用コード
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soy-dice/open_campus/blob/main/oc_phylogeny_demo.ipynb)
 
+遺伝子の配列があって、それを比較して計算することで進化の道筋を推定することができるよ、ということを喋りたかった。
+
 基本的に上から順に実行していけば、系統樹の推定と描画までできるようになっている
 
 最初のパッケージのインストールが時間かかるので、予め実行しておくと良い
